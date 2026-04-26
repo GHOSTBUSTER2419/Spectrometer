@@ -1,4 +1,4 @@
-"""# 🌈 Live & Static Virtual Spectrometer
+## 🌈 Live & Static Virtual Spectrometer
 
 A robust, dark-themed desktop application built with PyQt6 and OpenCV to analyze light spectra from live camera feeds and static images. 
 
